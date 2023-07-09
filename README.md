@@ -18,9 +18,9 @@ This website is a random website created for learning purpose. once the website 
 
 # Images of the website
 
-![screenshot](screenshot/screenshot 1.png
+![screenshot](screenshot/Screenshot 1.png
 
-![screenshot](screenshot/screenshot 2.png
+![screenshot](screenshot/Screenshot 2.png
 
-![screenshot](screenshot/screenshot 3.png
+![screenshot](screenshot/Screenshot 3.png
 
